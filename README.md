@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **C/C++, Java, Python, Data Structures, DBMS**
+- 💬 Ask me about **C, C++, Core Java, JDBC, JSP, Servlets, Python, Python Flask, C#, ASP.NET, PL/SQL, Data Structures and Algorithms, DBMS (Oracle 11g, MySQL), Object Oriented Programming (OOP), Machine Learning, Web Scraping, Internet of Things (IoT)**
 
 - 📫 How to reach me **sayan.bilaspur.2000@gmail.com**
 
