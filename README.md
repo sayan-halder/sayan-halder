@@ -3,8 +3,6 @@
 
 <img align = "center" alt="coding" width="1000" padding-down="10ox" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU">
 
-https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-halder&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-halder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan-halder" alt="sayan-halder" /></a> </p>
