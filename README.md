@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/sayan-halder-78a8a01b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-halder-78a8a01b7" height="30" width="40" /></a>
 <a href="https://fb.com/sayan.halder.5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan.halder.5205" height="30" width="40" /></a>
 <a href="https://instagram.com/__sayan__halder__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sayan__halder__" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sayanhalder72" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sayanhalder72" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sayan__halder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayan__halder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sayanhalder72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayanhalder72" height="30" width="40" /></a>
 </p>
