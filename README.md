@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Halder</h1>
-<h3 align="center">Innovative Software Developer and Data Scientist with Expertise in C#, Java, Python, SQL, and Machine Learning | Proven Project Experience and IEEE Publication</h3>
+<h3 align="center">Jr. Software Engineer | .NET & C# Developer | Azure Enthusiast | Problem Solver | Building Scalable Web Apps | Passionate about Clean Code & SDLC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-halder&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-halder" /> </p>
 
